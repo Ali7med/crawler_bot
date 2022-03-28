@@ -42,7 +42,7 @@ Now can send and receive the data through the app.
 
 ## Authors
 
-- [@ali7med](https://www.github.com/octokatherine)
+- [@ali7med](https://github.com/Ali7med)
 
 
 
