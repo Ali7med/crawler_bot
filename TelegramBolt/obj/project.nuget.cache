@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXLku12+WNh+d53N0abqTOy+QizJpFYDh1YOC3rV25rSi85Th8A708UY0Bb7UdTwFhpfQVYy3jq95HiiFzceqw==",
+  "success": true,
+  "projectFilePath": "F:\\Apps\\C#\\TelegramBolt\\TelegramBolt\\TelegramBolt\\TelegramBolt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WORK\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
+    "C:\\Users\\WORK\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\WORK\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\WORK\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\WORK\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
